@@ -9,4 +9,4 @@
 - Thời gian thực tập: 05/01/2026 - 28/02/2026
 
 ## Nội dung
-- Week 01: Làm quen môi trường công ty, tham gia vào dự án.
+- Week 01: Làm quen với môi trường làm việc thực tế tại doanh nghiệp và quy trình phát triển phần mềm chuyên nghiệp.
