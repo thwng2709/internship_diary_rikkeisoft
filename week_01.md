@@ -14,7 +14,6 @@
 
 * Hoàn tất cài đặt môi trường làm việc và quyền truy cập; tạo và push branch cá nhân lên repository.
 * Nắm được quy trình làm việc tại công ty như code review, pull request và quy tắc đặt tên branch.
-* Hoàn thành các task cơ bản đầu tiên, chủ yếu liên quan đến chỉnh sửa giao diện và xử lý logic đơn giản.
 * Hiểu thêm một số khái niệm trong phát triển phần mềm như *man-month*, *man-day*.
 
 ## Ghi chú
