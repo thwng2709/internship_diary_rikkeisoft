@@ -10,3 +10,4 @@
 
 ## Nội dung
 - Week 01: Làm quen với môi trường làm việc thực tế tại doanh nghiệp và quy trình phát triển phần mềm chuyên nghiệp.
+- Week 02: Bắt đầu làm việc, làm quen với dự án, hoàn thành các task và bugs được giao
