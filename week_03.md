@@ -1,6 +1,6 @@
 # Tuần 3
 
-**Thời gian:** (19/01/2026 – 23/01/2026)
+**Thời gian:** 19/01/2026 – 23/01/2026
 
 ## Nội dung thực tập
 - Tiếp tục tham gia dự án cùng team theo sự phân công của mentor.
